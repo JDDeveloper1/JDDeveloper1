@@ -21,7 +21,8 @@
 <div align="center">
     <h4> 📎 Languages and Tools </h4>   
 </div>
- <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+    <code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+    <code  ><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
     <code><img height="30" src="https://github.com/jmnote/z-icons/blob/master/32x32/php.png"></code>
