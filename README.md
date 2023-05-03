@@ -33,13 +33,12 @@
 
 ---
 
-<div align="left"><img  src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="" width="50" height="50"></div>
+<div align="left"><img  src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="" width="60" height="60"></div>
 
-<br>
 
 ##  My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDDeveloper1&theme=merko&hide_border=true&border_radius=7.8&mode=weekly&card_width=505)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDDeveloper1&theme=codestackr&hide_border=true&border_radius=7.8&mode=weekly&card_width=505)](https://git.io/streak-stats)
 
 ---
 
