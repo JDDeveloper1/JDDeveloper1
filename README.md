@@ -6,6 +6,8 @@
         refactoring, always looking to learn and improve.</h3>
 </div>
 
+---
+
 ### 👨‍💻 About Me:
 
 - 🔭 I'm currently working on Upwork
@@ -29,6 +31,13 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
 
+---
+
+## My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDDeveloper1&theme=merko&hide_border=true&border_radius=7.8&mode=weekly&card_width=505)](https://git.io/streak-stats)
+
+---
 
 <div id="badges" align="left">
     <h2 align="left"> Social Media </h2>
@@ -42,5 +51,9 @@
             alt="link Upwork" title="Upwork">
     </a>
 </div>
+
+---
+
+
 
 
