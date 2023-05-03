@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ4NmYzNTY1MGM2NTg0ODYzYmRlZWU5NDRkYjZkMTM3MzRjN2YzYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/qEqiI3Oq7vBkoE236M/giphy.gif" alt="Gif" width="250">
+    <h1 align="center"></h1>
+</div>
 
 <!--
 **JDDeveloper1/JDDeveloper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
