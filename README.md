@@ -5,8 +5,10 @@
     <h3 align="center">A passionate fullStack developer and manager with a work structure based on clean code,
         refactoring, always looking to learn and improve.</h3>
 </div>
----
 <br>
+
+---
+
 <div id="badges" align="center">
     <h2 align="center"> Social Media </h2>
     <p>Links</p>
