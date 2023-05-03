@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ4NmYzNTY1MGM2NTg0ODYzYmRlZWU5NDRkYjZkMTM3MzRjN2YzYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/qEqiI3Oq7vBkoE236M/giphy.gif" alt="Gif" width="250">
-    <h1 align="center"></h1>
+    <h1 align="center">Hi 🖖, I'm <span color="#CA6702">##JD Developer</span> </h1>
+    <h3 align="center" >A passionate fullStack developer and manager with a work structure based on clean code, refactoring, always looking to learn and improve.</h3>
 </div>
 
 <!--
