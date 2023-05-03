@@ -35,6 +35,18 @@
 
 <div align="left"><img  src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="" width="60" height="60"></div>
 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true" />
+</picture>
+
 
 ##  My Stats
 
