@@ -5,9 +5,10 @@
     <h3 align="center">A passionate fullStack developer and manager with a work structure based on clean code,
         refactoring, always looking to learn and improve.</h3>
 </div>
-<br>
 
 ---
+
+    
 
 ### 👨‍💻 About Me:
     
@@ -15,8 +16,22 @@
 - 💪 I'm continually learning
 - 💬 Ask me about **PHP, Laravel, Vue.js, scss, TS, & more**
 - 📫 How to reach me: **Jose.david.soto92@gmail.com**
-- ⚡ website  **JDdeveloper**   (https://jddeveloper.com)
+- ⚡ website  **JDdeveloper**   https://jddeveloper.com
 
+<div align="center">
+    <h4> 📎 Languages and Tools </h4>
+
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
+    <code><img height="30" src="https://github.com/jmnote/z-icons/blob/master/32x32/php.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
+</div>
 ---
 
 <div id="badges" align="center">
@@ -32,17 +47,5 @@
     </a>
 </div>
 
-<!--
-**JDDeveloper1/JDDeveloper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
