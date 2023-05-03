@@ -81,8 +81,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/Davermx/Davermx?style=social)
 
 
-<div align="">
-    <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="80" height="80">
+<div align="right">
+    <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200">
 </div>
 
 
