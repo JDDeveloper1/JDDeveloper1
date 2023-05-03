@@ -35,10 +35,17 @@
 
 <div align="left"><img  src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="" width="60" height="60"></div>
 
+
+
+
+##  My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDDeveloper1&theme=codestackr&hide_border=true&border_radius=7.8&mode=weekly&card_width=505)](https://git.io/streak-stats)
+
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true&theme=merko"
+  media="(prefers-color-scheme: merko)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true"
@@ -46,11 +53,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true" />
 </picture>
-
-
-##  My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDDeveloper1&theme=codestackr&hide_border=true&border_radius=7.8&mode=weekly&card_width=505)](https://git.io/streak-stats)
 
 ---
 
