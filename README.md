@@ -6,37 +6,25 @@
         refactoring, always looking to learn and improve.</h3>
 </div>
 
----
-
-    
-
-### 👨‍💻 About Me:
-    
-- 🔭 I'm currently working on Upwork
-- 💪 I'm continually learning
-- 💬 Ask me about **PHP, Laravel, Vue.js, scss, TS, & more**
-- 📫 How to reach me: **Jose.david.soto92@gmail.com**
-- ⚡ website  **JDdeveloper**   https://jddeveloper.com
-
 <div align="left">
-    <h4> 📎 Languages and Tools </h4>   
+    <h4> 📎 Languages and Tools </h4>
 </div>
-<code align="center"  ><img height="30"  src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
-<code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
-<code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
-    <code align="center"><img height="30" src="https://github.com/jmnote/z-icons/blob/master/32x32/php.png"></code>
-    <code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
-    <code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
-    <code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.png"></code>
-    <code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
-    <code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
-    <code align="center"><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
 
----
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
+<code><img height="30" src="https://github.com/jmnote/z-icons/blob/master/32x32/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
 
-<div id="badges" align="center">
-    <h2 align="center"> Social Media </h2>
-    <p>Links</p>
+
+<div id="badges" align="left">
+    <h2 align="left"> Social Media </h2>
+    <p>Link's</p>
     <a href="https://github.com/JDDeveloper1">
         <img src="https://img.shields.io/badge/Github-JD%20Developer-orange?logo=github&style=plastic" alt="link github"
             title="github">
@@ -46,6 +34,5 @@
             alt="link Upwork" title="Upwork">
     </a>
 </div>
-
 
 
