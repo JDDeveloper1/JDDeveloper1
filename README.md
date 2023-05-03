@@ -4,7 +4,7 @@
     <h4 align="center" >A passionate fullStack developer and manager with a work structure based on clean code, refactoring, always looking to learn and improve.</h4>
 </div>
 <br>
-<div id="body" align="center"> 
+<div id="badges" align="center"> 
     <h3 align="center"> Social Media </h3>
         <p>Links</p>
     <img src="https://img.shields.io/badge/Social%20Media-https%3A%2F%2Fgithub.com%2FJDDeveloper1-orange?logo=github" alt="Social Media" title="Github">
