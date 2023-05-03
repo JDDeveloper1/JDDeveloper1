@@ -15,7 +15,7 @@
 - 💪 I'm continually learning
 - 💬 Ask me about **PHP, Laravel, Vue.js, scss, TS, & more**
 - 📫 How to reach me: **Jose.david.soto92@gmail.com**
-- ⚡ website [ JDdeveloper ] ( jddeveloper.com )
+- ⚡ website  JDdeveloper   **jddeveloper.com** 
 
 ---
 
