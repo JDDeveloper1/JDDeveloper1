@@ -73,6 +73,13 @@
 
 ---
 
+#### If it helped you, hit **Stars**, you can also give it **Fork** or tell me what we can improve. ✌️
+
+![GitHub stars](https://img.shields.io/github/stars/Davermx/Davermx?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Davermx/Davermx?label=Fork&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Davermx?label=Follow&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Davermx/Davermx?style=social)
+
 
 
 
