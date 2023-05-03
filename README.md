@@ -6,6 +6,14 @@
         refactoring, always looking to learn and improve.</h3>
 </div>
 
+### 👨‍💻 About Me:
+
+- 🔭 I'm currently working on Upwork
+- 💪 I'm continually learning
+- 💬 Ask me about **PHP, Laravel, Vue.js, scss, TS, & more**
+- 📫 How to reach me: **Jose.david.soto92@gmail.com**
+- ⚡ website  **JDdeveloper**   https://jddeveloper.com
+
 <div align="left">
     <h4> 📎 Languages and Tools </h4>
 </div>
