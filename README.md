@@ -32,11 +32,8 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
 
 ---
-
+<img align="left" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="" width="50" height="50">
 ##  My Stats
-
-<img align="left" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="" width="40" height="40">
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDDeveloper1&theme=merko&hide_border=true&border_radius=7.8&mode=weekly&card_width=505)](https://git.io/streak-stats)
 
