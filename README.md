@@ -18,7 +18,7 @@
 - 📫 How to reach me: **Jose.david.soto92@gmail.com**
 - ⚡ website  **JDdeveloper**   https://jddeveloper.com
 
-<div align="center">
+<div align="left">
     <h4> 📎 Languages and Tools </h4>   
 </div>
 <code align="center"  ><img height="30"  src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
