@@ -44,15 +44,17 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true&theme=merko"
-  media="(prefers-color-scheme: merko)"
+  srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: radical)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: radical), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=JDDeveloper1&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
